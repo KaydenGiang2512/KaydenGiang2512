@@ -1,5 +1,5 @@
-<h1 align="center">Hi fellow devs 👋, I'm Khanh Giang (a.k.a Kayden)</h1>
-<h3 align="center">A passionate software developer from Ho Chi Minh City, Vietnam. My specialty is in mobile development and full-stack web development!</h3>
+<h1 align="left">Hi fellow devs 👋, I'm Khanh Giang (a.k.a Kayden)</h1>
+<h3 align="left">A passionate software developer from Ho Chi Minh City, Vietnam. My specialty is in mobile development and full-stack web development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaydengiang2512&label=Profile%20views&color=0e75b6&style=flat" alt="kaydengiang2512" /> </p>
 
