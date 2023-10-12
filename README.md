@@ -1,5 +1,5 @@
 <h1 align="left">Hi fellow devs 👋, I'm Khanh Giang (a.k.a Kayden)</h1>
-<h3 align="left">A passionate software developer from Ho Chi Minh City, Vietnam. My specialty is in mobile development and full-stack web development!</h3>
+<h3 align="left">A passionate software engineer from Ho Chi Minh City, Vietnam, and currently a senior at <a href="https://www.rmit.edu.vn/">RMIT University Vietnam</a> majoring in Information Technology. My specialties are in full-stack web development and cross-platform mobile development!</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on **SereneCFM (Mindfulness Mobile App)**<br>🤝 I’m looking for help with **finding a full-time developer position - [My CV](https://drive.google.com/file/d/1ZRS1zw7ySOULPrBwoqOUxiRDe3K_gRKE/view?usp=sharing)**<br>🌱 I’m currently learning **Azure DevOps, NextJS, NestJS, TypeScript, ThreeJS**<br>💬 Ask me about **HTML, CSS, JavaScript, ReactJS, React Native, GitHub, IELTS**<br>⚡ Fun fact: **I'm also significantly competent in the translating and interpreting industry (English - Vietnamese), and I'm always looking for freelance options in this field!**
