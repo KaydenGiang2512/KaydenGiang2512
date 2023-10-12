@@ -37,7 +37,7 @@
 ![Notion](https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Version control tools:
-![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## Other tools:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
